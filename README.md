@@ -1,5 +1,5 @@
 # Simple Python UDP Communication
-Deploying of a Client and Server UDP communication.
+Deploying of a Client-Server UDP communication.
 ## Built With
 * Python 3.8
 
