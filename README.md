@@ -1,5 +1,5 @@
 # Simple Python UDP Communication
-Ejemplo de comunicación UDP de cliente y servidor.
+Deploying of a Client and Server UDP communication.
 ## Built With
 * Python 3.8
 
